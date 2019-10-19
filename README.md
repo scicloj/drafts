@@ -1,4 +1,4 @@
-# scicloj-drafts.github.com
+# drafts
 A website for sharing our drafts and experiments
 
 ## Usage
@@ -8,3 +8,8 @@ To get permissions, please email mailto:scicloj@gmail.com .
 
 Just add an html as in the [example](./example), and add a like to it at [index.html](index.html).
 
+## License
+
+Copyright © 2019 Scicloj
+
+Distributed under the Eclipse Public License.
